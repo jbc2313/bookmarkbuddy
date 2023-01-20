@@ -1,9 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "Hello World I'm an Extension",
-  "description": "Base Level Extension",
+  "name": "Bookmark Buddy",
+  "description": "Bookmark extension",
   "version": "1.0",
   "action": {
     "default_popup": "popup/popup.html"
-  }
+  },
+  "permissions": [
+      "bookmarks"
+  ]
 }
