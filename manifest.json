@@ -8,5 +8,6 @@
   },
   "permissions": [
       "bookmarks"
-  ]
+  ],
+  "options_page": "options/options.html"
 }
